@@ -1,18 +1,12 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="stripDark" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00eaff"/>
-      <stop offset="100%" stop-color="#00b2ff"/>
+      <stop offset="0%" stop-color="#00eaff"/><stop offset="100%" stop-color="#00b2ff"/>
     </linearGradient>
-    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <rect width="1200" height="300" fill="#0b0f17"/>
   <polygon points="0,220 1200,100 1200,300 0,300" fill="url(#stripDark)" opacity="0.22"/>
-  <text x="50%" y="46%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-        font-size="46" fill="#00eaff" filter="url(#neon)">Hi, I'm Marcos</text>
-  <text x="50%" y="68%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-        font-size="22" fill="#cfefff">Frontend & Interactive Web • Three.js • React</text>
+  <text x="50%" y="46%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="46" fill="#00eaff" filter="url(#neon)">Hi, I&apos;m Marcos</text>
+  <text x="50%" y="68%" text-anchor="middle" font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" fill="#cfefff">Frontend &amp; Interactive Web • Three.js • React</text>
 </svg>
