@@ -1,10 +1,10 @@
 <picture>
   <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
   <!-- Fallback -->
-  <img alt="Marcos — Frontend & Interactive Web" src="banner-light.svg" />
+  <img alt="Marcos — Frontend & Interactive Web" src="assets/banner-light.svg" />
 </picture>
 
 <h2 align="left">Hi 👋! I'm Marcos, a Frontend & Interactive Web Developer from Venezuela (based in Spain).</h2>
