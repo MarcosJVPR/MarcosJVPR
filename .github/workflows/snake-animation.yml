@@ -14,14 +14,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG (electric blue snake)
+      - name: Generate snake SVG (always BLUE, transparent bg)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MarcosJVPR
+          # IMPORTANT: URL-encode # as %23
           outputs: |
-            dist/snake.svg?color_snake=%23006CFF&color_dots=%23161B22,%2300BFFF,%23006CFF
+            dist/snake.svg?color_snake=%23006CFF&color_dots=%23006CFF,%2300BFFF,%2300E5FF&color_empty=%2300000000&color_back=%2300000000
 
-      - name: Upload to GitHub Pages branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
