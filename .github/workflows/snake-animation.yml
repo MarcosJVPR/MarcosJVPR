@@ -14,14 +14,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs (always electric blue)
+      - name: Generate snake SVGs (electric blue, theme-matched bg)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MarcosJVPR
           outputs: |
-            # Dark theme: page bg ~ #0b0f17
             dist/snake-dark.svg?color_snake=%23006CFF&color_dots=%23006CFF,%2300BFFF,%2300E5FF&color_empty=%230b0f17&color_back=%230b0f17
-            # Light theme: page bg white
             dist/snake-light.svg?color_snake=%23006CFF&color_dots=%23006CFF,%2300BFFF,%2300E5FF&color_empty=%23ffffff&color_back=%23ffffff
 
       - name: Publish to output branch
