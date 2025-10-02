@@ -2,7 +2,7 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: "0 0 * * 1"   # every Monday 00:00 UTC
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -14,13 +14,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs (electric blue)
+      - name: Generate snake SVG (one file, visible on both themes)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MarcosJVPR
+          # snake azul, comida azules; celdas blancas; fondo transparente
           outputs: |
-            dist/snake_dark_blue.svg?color_snake=%23006CFF&color_dots=%23006CFF,%2300BFFF,%2300E5FF&color_empty=%2300000000&color_back=%2300000000
-            dist/snake_light_blue.svg?color_snake=%23006CFF&color_dots=%23006CFF,%2300BFFF,%2300E5FF&color_empty=%23ffffff&color_back=%23ffffff
+            dist/snake.svg?color_snake=%23006CFF&color_dots=%23006CFF,%2300BFFF,%2300E5FF&color_empty=%23ffffff&color_back=%2300000000
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
