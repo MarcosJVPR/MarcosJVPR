@@ -19,11 +19,11 @@ jobs:
         with:
           github_user_name: MarcosJVPR
           outputs: |
-            # Light (azul eléctrico)
+            # Light mode
             dist/snake.svg?color_snake=006CFF&color_dots=%23161B22,%23006CFF,%2300BFFF
-            # Dark (sky-blue neon)
-            dist/snake-dark.svg?palette=github-dark&color_snake=7DF9FF&color_dots=%230b0f17,%237DF9FF,%2300EAFE
-            # Extra light (si lo usas)
+            # Dark mode (electric blue too)
+            dist/snake-dark.svg?palette=github-dark&color_snake=006CFF&color_dots=%230b0f17,%23006CFF,%2300BFFF
+            # Extra light if needed
             dist/snake-light.svg?palette=github-light&color_snake=006CFF&color_dots=%23f5f9ff,%23006CFF,%2300BFFF
 
       - name: Upload to GitHub Pages branch
