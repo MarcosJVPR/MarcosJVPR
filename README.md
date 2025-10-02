@@ -11,77 +11,63 @@ I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently c
 <a href="https://portfolio-rho-nine-97.vercel.app/">interactive portfolio</a> and exploring cybersecurity & shader tricks.
 </p>
 
+<!-- Avatar -->
+<img align="right" src="assets/avatar.png" width="160" alt="Marcos avatar" style="border-radius:50%;" />
+
+<!-- Stats -->
 <div align="center">
-  <!-- GitHub Stats -->
   <picture>
-    <!-- DARK -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=MarcosJVPR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=7DF9FF&text_color=E6F7FF&icon_color=7DF9FF&ring_color=7DF9FF&bg_color=0b0f17&cache_seconds=21600" />
-    <!-- LIGHT -->
-    <img height="150" alt="GitHub stats" 
-      src="https://github-readme-stats.vercel.app/api?username=MarcosJVPR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=006CFF&text_color=0b0f17&icon_color=006CFF&ring_color=006CFF&bg_color=f5f9ff&cache_seconds=21600" />
+    <!-- Dark: light neon sky blue -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MarcosJVPR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=7DF9FF&text_color=E6F7FF&icon_color=7DF9FF&ring_color=7DF9FF&bg_color=0b0f17&cache_seconds=21600" />
+    <!-- Light: electric blue -->
+    <img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MarcosJVPR&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&title_color=006CFF&text_color=0b0f17&icon_color=006CFF&ring_color=006CFF&bg_color=f5f9ff&cache_seconds=21600" />
   </picture>
 
-  <!-- Top Languages -->
   <picture>
-    <!-- DARK -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosJVPR&layout=compact&card_width=320&langs_count=6&hide_border=false&title_color=7DF9FF&text_color=E6F7FF&bg_color=0b0f17&cache_seconds=21600" />
-    <!-- LIGHT -->
-    <img height="150" alt="Top languages" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosJVPR&layout=compact&card_width=320&langs_count=6&hide_border=false&title_color=006CFF&text_color=0b0f17&bg_color=f5f9ff&cache_seconds=21600" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosJVPR&layout=compact&card_width=360&langs_count=6&hide_border=false&title_color=7DF9FF&text_color=E6F7FF&bg_color=0b0f17&cache_seconds=21600" />
+    <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosJVPR&layout=compact&card_width=360&langs_count=6&hide_border=false&title_color=006CFF&text_color=0b0f17&bg_color=f5f9ff&cache_seconds=21600" />
   </picture>
 </div>
 
-<!-- Avatar a la derecha (reemplaza el GIF de la plantilla) -->
-<img align="right" height="150" src="assets/avatar.png" alt="Marcos avatar" style="border-radius:50%;" />
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-</div>
+<h3>Redes:</h3>
+<a href="https://discord.com/users/tu-id" target="_blank">
+  <img alt="Discord" height="28" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/marcosjvpr/" target="_blank">
+  <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-006CFF?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:perezmarcosjulio@gmail.com">
+  <img alt="Email" height="28" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<div align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-00eaff?style=for-the-badge&logo=linkedin&logoColor=0b0f17&labelColor=0b0f17&color=0b0f17" />
-    <a href="https://www.linkedin.com/in/marcosjvpr/">
-      <img alt="LinkedIn" height="35" src="https://img.shields.io/badge/LinkedIn-006CFF?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=f5f9ff&color=f5f9ff" />
-    </a>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-00eaff?style=for-the-badge&logo=vercel&logoColor=00eaff&labelColor=0b0f17&color=0b0f17" />
-    <a href="https://portfolio-rho-nine-97.vercel.app/">
-      <img alt="Portfolio" height="35" src="https://img.shields.io/badge/Portfolio-006CFF?style=for-the-badge&logo=vercel&logoColor=006CFF&labelColor=f5f9ff&color=f5f9ff" />
-    </a>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-00eaff?style=for-the-badge&logo=gmail&logoColor=00eaff&labelColor=0b0f17&color=0b0f17" />
-    <a href="mailto:perezmarcosjulio@gmail.com">
-      <img alt="Email" height="35" src="https://img.shields.io/badge/Email-006CFF?style=for-the-badge&logo=gmail&logoColor=006CFF&labelColor=f5f9ff&color=f5f9ff" />
-    </a>
-  </picture>
-</div>
+<hr/>
 
-<br clear="both" />
+<h3>🚀 Habilidades Técnicas</h3>
 
-<!-- SNAKE: genera tu propia salida con GitHub Actions (ver sección 2) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake.svg" alt="Snake animation" />
-</picture>
+<img alt="CSS3" height="28" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="HTML5" height="28" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="JavaScript" height="28" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111">
+<img alt="Java" height="28" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img alt="Python" height="28" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Vercel" height="28" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img alt="Render" height="28" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111">
+<img alt="Bootstrap" height="28" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br/>
+
+<img alt="JWT" height="28" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img alt="jQuery" height="28" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img alt="React" height="28" src="https://img.shields.io/badge/React-00D1F7?style=for-the-badge&logo=react&logoColor=061a23">
+<img alt="React Router" height="28" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+<img alt="Three.js" height="28" src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+<img alt="TailwindCSS" height="28" src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img alt="MySQL" height="28" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="MongoDB" height="28" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br/>
+
+<img alt="Git" height="28" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img alt="GitHub" height="28" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Docker" height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img alt="Postman" height="28" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img alt="Adobe Photoshop" height="28" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img alt="Figma" height="28" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="Blender" height="28" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
