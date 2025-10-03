@@ -76,9 +76,4 @@ I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently c
 ---
 
 <!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake-dark.svg?t=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake-light.svg?t=1" />
-  <img src="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake-light.svg?t=1" alt="Snake animation" />
-</picture>
-
+<img src="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake.svg?t=2" alt="Snake animation"/>
