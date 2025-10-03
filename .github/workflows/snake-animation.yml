@@ -2,7 +2,7 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # every Monday 00:00 UTC
+    - cron: "0 0 * * 1"  # every Monday 00:00 UTC
   workflow_dispatch:
   push:
     branches: ["main"]
@@ -18,6 +18,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MarcosJVPR
+
           outputs: |
             dist/snake.svg?color_snake=%23006CFF&color_dots=%23006CFF,%23006CFF,%23006CFF&color_empty=%2300000000&color_back=%2300000000
 
