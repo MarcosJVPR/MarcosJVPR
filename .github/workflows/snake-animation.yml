@@ -18,8 +18,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MarcosJVPR
+          # ¡IMPORTANTE! Asegúrate de que color_back y color_empty sean %2300000000 (transparente)
+          # Color de la serpiente y puntos cambiado a Mostaza Ocre: #BF8A0A (%23BF8A0A)
           outputs: |
-            dist/snake.svg?color_snake=%23006CFF&color_dots=%2300FF00,%2300FF00,%2300FF00&color_empty=%2300000000&color_back=%2300000000
+            dist/snake.svg?color_snake=%23BF8A0A&color_dots=%23BF8A0A,%23BF8A0A,%23BF8A0A&color_empty=%2300000000&color_back=%2300000000
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
