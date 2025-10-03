@@ -14,12 +14,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG (JUST snake + food; cells transparent)
+      - name: Generate snake SVG (snake blue, food blue, trail white)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: MarcosJVPR
           outputs: |
-            dist/snake.svg?color_snake=%23006CFF&color_dots=%2300BFFF,%23006CFF,%2300E5FF&color_empty=%2300000000&color_back=%2300000000
+            dist/snake.svg?color_snake=%23006CFF&color_dots=%2300BFFF,%23006CFF,%2300E5FF&color_empty=%23FFFFFF&color_back=%2300000000
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

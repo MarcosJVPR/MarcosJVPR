@@ -76,4 +76,4 @@ I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently c
 ---
 
 <!-- Snake -->
-<img src="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake.svg?t=2" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/snake.svg?t=4" alt="Snake animation" />
