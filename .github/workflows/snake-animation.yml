@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: MarcosJVPR
           outputs: |
-            dist/snake.svg?color_snake=%23BF8A0A&color_dots=%23BF8A0A,%23BF8A0A,%23BF8A0A&color_empty=%2300000000&color_back=%2300000000
+            dist/snake.svg?color_snake=%23BF8A0A&color_dots=%23B03A2E,%23B03A2E,%23B03A2E&color_empty=%2300000000&color_back=%2300000000
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
