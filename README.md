@@ -34,14 +34,10 @@ I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently c
 <h3>Redes:</h3>
 <p>
   <a href="https://portfolio-rho-nine-97.vercel.app/" target="_blank">
-  <img
-    alt="Interactive Portfolio"
-    height="28"
-    style="margin-right:6px"
+  <img alt="Interactive Portfolio" height="28" style="margin-right:6px"
     src="https://img.shields.io/badge/⚡_Interactive_Portfolio-00C6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkRCRTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHBhdGggZD0iTTEwIDBMMjAgMTBMMTAgMjBMMCwxMEwxMCwwWiIvPjwvc3ZnPg==&logoColor=white&labelColor=0b0f17&color=00C6FF"
   />
   </a>
-
   <a href="https://www.linkedin.com/in/marcosjvpr/" target="_blank">
     <img alt="LinkedIn" height="28" style="margin-right:6px" src="https://img.shields.io/badge/LinkedIn-006CFF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -52,9 +48,9 @@ I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently c
 
 <hr/>
 
-<h3>🚀 Habilidades Técnicas</h3>
+<h3>Habilidades Técnicas</h3>
 
-<!-- fila 1 (todo en una línea, auto-wrap) -->
+
 <p>
   <img alt="CSS3" height="28" style="margin-right:6px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="HTML5" height="28" style="margin-right:6px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
