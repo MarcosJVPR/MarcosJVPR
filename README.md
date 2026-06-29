@@ -10,13 +10,9 @@
 I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently shipping two projects: an interactive tourism data app in production (React/Vite) and an asymmetric RTS in Unreal Engine 5 with faction systems. Also exploring cybersecurity.
 </p>
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+%C2%B7+Three.js+%C2%B7+Game+Dev;Building+Travel+to+Spain;Building+Hadas+Vs+Ogros;Exploring+cybersecurity&font=Fira+Code&color=3f8a4c&size=22&center=true&width=500&height=45" alt="" />
 
-<img align="right" src="assets/avatar.png" width="140" alt="Marcos avatar" style="border-radius:50%; margin-left: 16px; margin-top: 8px;" />
-
-<br clear="right"/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:23543f,50:3f8a4c,100:e9b341&height=110&section=header&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:23543f,50:3f8a4c,100:e9b341&height=120&section=header&animation=twinkling" width="100%" alt="" />
 
 ### Featured Projects
 
@@ -63,7 +59,6 @@ Asymmetric 3D RTS in development. The Sylvan Court vs. The Iron-Crag Clans with 
 </a>
 
 <br/>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosJVPR/MarcosJVPR/output/github-snake-dark.svg" />
