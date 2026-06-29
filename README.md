@@ -13,13 +13,13 @@ I build playful, performant UIs with <b>React</b> & <b>Three.js</b>. Currently d
 <!-- Avatar -->
 <img align="right" src="assets/avatar.png" width="140" alt="Marcos avatar" style="border-radius:50%; margin-left: 16px; margin-top: 8px;" />
 
-## Featured Projects
+### Featured Projects
 
 **🗺️ Travel to Spain** — React + Vite + Tailwind  
 Real Spanish Tourism API (Dataestur) integration with interactive data visualization and per-destination color themes.  
 → [Live Demo](https://travel-to-spain.vercel.app/) | [Repository](https://github.com/MarcosJVPR/TravelToSpain)
 
-## Connect
+### Connect
 
 <a href="https://portfolio-rho-nine-97.vercel.app/" target="_blank">
   <img alt="Interactive 3D Portfolio" height="32" style="margin-right:6px; margin-bottom:8px;" src="https://img.shields.io/badge/Interactive_3D_Portfolio-00C6FF?style=for-the-badge&logoColor=white&labelColor=0b0f17">
@@ -33,7 +33,7 @@ Real Spanish Tourism API (Dataestur) integration with interactive data visualiza
   <img alt="Email" height="32" style="margin-right:6px; margin-bottom:8px;" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-## Tech Stack
+### Tech Stack
 
 **Frontend:** React • React Router • Three.js • Vite • Tailwind CSS • Framer Motion  
 **Backend:** Node.js • Python • Flask • Java  
